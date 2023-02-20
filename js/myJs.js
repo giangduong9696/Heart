@@ -1,4 +1,4 @@
 var autoPlay = () => {
-    var audio = new Audio("sound/kai-dinh-x-min-x-grey-d-performance-video.mp3");
+    var audio = new Audio("sound/goblin-ost-crush-piano-cover-by-riyandi-kusuma.mp3");
     audio.play();
 }
